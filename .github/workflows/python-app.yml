@@ -32,6 +32,6 @@ jobs:
       run: |
         pytest
     - name: Run main.py
-      working-directory: C:\Users\ahmet\Desktop\SuGrad\app
+      working-directory: app
       run: python main.py
         
